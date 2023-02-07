@@ -1,6 +1,5 @@
 import styles from "./style.js";
-import {Billing, Business, Hero, Navbar, Stats} from "./components/index.js";
-
+import {Billing, Business, CardDeal, Hero, Navbar, Stats, Testimonials} from "./components";
 
 
 const App = () => {
@@ -18,10 +17,10 @@ const App = () => {
     <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Stats/>
-       <Business/>
+        <Business/>
         <Billing/>
-        CardDeal
-        Testimonials
+        <CardDeal/>
+        <Testimonials/>
         Clients
         CTA
         Footer
