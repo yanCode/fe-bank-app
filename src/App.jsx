@@ -1,5 +1,5 @@
 import styles from "./style.js";
-import {Business, Hero, Navbar, Stats} from "./components/index.js";
+import {Billing, Business, Hero, Navbar, Stats} from "./components/index.js";
 
 
 
