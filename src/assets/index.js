@@ -15,6 +15,15 @@ import people01 from './people01.png'
 import people02 from './people02.png'
 import people03 from './people03.png'
 import quotes from './quotes.svg'
+import binance from './binance.png'
+import airbnb from './airbnb.png'
+import coinbase from './coinbase.png'
+import dropbox from './dropbox.png'
+import facebook from './facebook.svg'
+import twitter from './twitter.svg'
+import instagram from './instagram.svg'
+import linkedin from './linkedin.svg'
+
 
 export {
   logo,
@@ -33,5 +42,13 @@ export {
   people01,
   people02,
   people03,
-  quotes
+  quotes,
+  binance,
+  airbnb,
+  coinbase,
+  dropbox,
+  facebook,
+  twitter,
+  instagram,
+  linkedin
 }

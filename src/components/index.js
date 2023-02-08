@@ -7,6 +7,9 @@ import GetStarted from "./GetStarted.jsx";
 import CardDeal from "./CardDeal.jsx";
 import Testimonials from "./Testimonials.jsx";
 import FeedbackCard from "./FeedbackCard.jsx";
+import Clients from "./Clients.jsx";
+import CTA from "./CTA.jsx";
+import Footer from "./Footer.jsx";
 
 export {
   Navbar,
@@ -17,5 +20,8 @@ export {
   GetStarted,
   CardDeal,
   Testimonials,
-  FeedbackCard
+  FeedbackCard,
+  Clients,
+  CTA,
+  Footer
 };
